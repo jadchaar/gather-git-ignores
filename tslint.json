@@ -20,6 +20,8 @@
 			"check-preblock",
 			"check-type-operator",
 			"check-rest-spread"
-		]
+		],
+		"interface-name": false,
+		"max-line-length": [true, 150]
 	}
 }
