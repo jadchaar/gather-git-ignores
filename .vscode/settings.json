@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"editor.detectIndentation": true,
+	"editor.wrappingIndent": "indent",
+	"editor.formatOnType": false,
+	"files.trimTrailingWhitespace": true,
+	"files.insertFinalNewline": true,
+	"tslint.autoFixOnSave": true,
+	"tsimporter.doubleQuotes": true,
+	"tsimporter.preferRelative": true,
+	"typescriptHero.imports.stringQuoteStyle": "\"",
+	"typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+	"typescript.tsdk": "node_modules/typescript/lib"
+}

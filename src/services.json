@@ -1,0 +1,26 @@
+{
+	"languages": [
+		"Node",
+		"C++",
+		"C",
+		"Python",
+		"Sass",
+		"Go"
+	],
+	"editors": [
+		"JetBrains",
+		"Xcode",
+		"VisualStudioCode",
+		"Matlab"
+	],
+	"os": [
+		"Windows",
+		"macOS"
+	],
+	"other": [
+		"VirtualEnv",
+		"Dropbox",
+		"GPG",
+		"MicrosoftOffice"
+	]
+}
